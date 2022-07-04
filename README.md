@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/lNext/404_Error/blob/main/img/demoimg.png?raw=true)
+![screenshot](https://github.com/lNext/sayhello/blob/main/img/Captura%20de%20Pantalla%202022-07-04%20a%20la(s)%2012.55.20%20p.m..png?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
