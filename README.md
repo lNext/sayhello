@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://four04-error.onrender.com/">
+    <a href="https://sayhello.onrender.com">
       Demo
     </a>
     <span> | </span>
@@ -16,9 +16,6 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
   </h3>
 </div>
 
